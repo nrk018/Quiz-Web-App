@@ -2,6 +2,9 @@
 
 This project is an interactive Quiz Application built using HTML, CSS, and JavaScript. The application dynamically loads questions, tracks user scores, and provides real-time feedback, with a focus on clean, modular, and scalable code architecture.
 
+<img width="1710" alt="Screenshot 2024-08-20 at 9 59 23 PM" src="https://github.com/user-attachments/assets/daa6f9a8-4bb6-48b7-a296-03baab1e98ff">
+
+
 ## Project Structure
 
 - **index.html**: The main HTML file, containing the structure of the app, including the header, quiz container, and placeholders for dynamic content such as questions, options, and the score tracker.
